@@ -1,3 +1,5 @@
+view wiki page inorder to know the modules to be installed.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
